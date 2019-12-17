@@ -1,0 +1,49 @@
+<div *ngIf="movieView" class="detail-container">
+  <div class="mat-headline">{{movieView.title | titlecase}}</div>
+
+  <div class='mat-title'>Genre</div>
+  <div class="mat-body-1" *ngFor="let item of movieView.genre">{{item}}</div>
+
+  <div class='mat-title'>Release Year</div>
+  <div class="mat-body-1">{{movieView.releaseYear}}</div>
+
+  <div class='mat-title'>Cast</div>
+  <div class="mat-body-1" *ngFor="let item of movieView.artist">{{item}}</div>
+
+  <div class='mat-title'>Director</div>
+  <div class="mat-body-1">{{movieView.director}}</div>
+
+  <div class="mat-title">Rating</div>
+  <div class="mat-body-1">{{movieView.rating}}</div>
+
+  <div class='mat-title'>Rent details</div>
+
+  <div class='mat-body-2'>Total Copies</div>
+  <div class="mat-body-1">{{movieView.totalCopies}}</div>
+
+  <div class='mat-body-2'>Available units</div>
+  <div class="mat-body-1">{{movieView.availableCopies}}</div>
+
+  <div *ngIf='rented'>
+    <div class='mat-body-2'>Rented till</div>
+    <div class="mat-body-1"{{tillDate}}></div>
+  </div>
+
+  <button color="primary" mat-raised-button *ngIf="rented" (click)='clickedDateReqField=!clickedDateReqField'>Extend</button>
+  <button color="primary" mat-raised-button *ngIf="rented" (click)='cancelBooking()'>Cancel</button>
+  <button color="primary" mat-raised-button *ngIf="!rented" (click)='clickedDateReqField=!clickedDateReqField'>Book</button>
+
+  <div *ngIf='clickedDateReqField'>
+    <div class="mat-body-2">Select a date</div>
+    <form [formGroup]='dateForm' (ngSubmit)='onSubmit()'>
+      <mat-form-field>
+        <input matInput formControlName='date' [matDatepicker]="picker" placeholder="Choose a date">
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+      </mat-form-field>
+      <button mat-raised-button color="primary" type="submit">Save</button>
+    </form>
+  </div>
+
+</div>
+

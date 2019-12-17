@@ -1,0 +1,13 @@
+<div class='mat-headline'>Please enter your Username below</div>
+<div class="form-container">
+  <form [formGroup]="loginForm" (ngSubmit)='onSubmit()'>
+    <mat-form-field>
+      <input formControlName='username' type='text' matInput placeholder="User Name">
+    </mat-form-field>
+    <!-- <mat-form-field>
+      <input formControlName='password' type='password' matInput placeholder="Password">
+    </mat-form-field> -->
+    <button mat-raised-button color="primary" type="submit">Login</button>
+    <!-- <button mat-raised-button color="primary" type="reset">Reset fields</button> -->
+  </form>
+</div>

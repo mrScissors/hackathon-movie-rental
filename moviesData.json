@@ -1,0 +1,8469 @@
+[
+    {
+      "id": "5db6dcafca390595b1b26474",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 2,
+      "availableCopies": 99,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf161d37e9e64a1187",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 4,
+      "availableCopies": 81,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcafe3cb2d91377ea53a",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 96,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafe1fd72b47fb2d47b",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 3.4,
+      "availableCopies": 94,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcafdf1d3371fb5831f8",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.7,
+      "availableCopies": 99,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcafdc2aea54965ef758",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.6,
+      "availableCopies": 80,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcafcda68a07d39cc49a",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.6,
+      "availableCopies": 81,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcafcb69d9f6b35bb03a",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3,
+      "availableCopies": 85,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcafcbbccdd4f5987c22",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.4,
+      "availableCopies": 91,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafd56abce4649a3f66",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.2,
+      "availableCopies": 95,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcaffcb6ae19af4ed90d",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.8,
+      "availableCopies": 85,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafaff6d181e21fee2f",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.9,
+      "availableCopies": 99,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcafbf6e796a0c1927c6",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.4,
+      "availableCopies": 91,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcafcaa9ac090dab3bd5",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 2.7,
+      "availableCopies": 81,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf80aa26f087e15d86",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.4,
+      "availableCopies": 96,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcafc584134348591411",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 2.2,
+      "availableCopies": 84,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf74775fa01a6a92fc",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.6,
+      "availableCopies": 82,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaf06c3d0f43f57398d",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.8,
+      "availableCopies": 93,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf90bdd2763f27e6c8",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.2,
+      "availableCopies": 100,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf4e1bcb77381362d3",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.2,
+      "availableCopies": 100,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcafbe98398625a2704b",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.6,
+      "availableCopies": 90,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcafc679117101b51bd4",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 2.5,
+      "availableCopies": 98,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf3f6d3e54c21d0af6",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 3.7,
+      "availableCopies": 84,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcafab1913ed3e483f07",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.9,
+      "availableCopies": 91,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcaf43e698ac4cf3a1c6",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.7,
+      "availableCopies": 83,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcaf18081889e2931e52",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 1.7,
+      "availableCopies": 94,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf0b3c5738c3d97a18",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 1,
+      "availableCopies": 85,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcafdacf84eed7d6df5a",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3.1,
+      "availableCopies": 95,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaf75b10b6ff10c155b",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 4.8,
+      "availableCopies": 85,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcaf12dd9568227a8fa0",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.5,
+      "availableCopies": 87,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcaffb7d2ebe4899fa47",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.3,
+      "availableCopies": 87,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafe35652f9d6ff61e8",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 89,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcafcf8686333d803857",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.4,
+      "availableCopies": 86,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaff5abaf4d16d353f1",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.9,
+      "availableCopies": 96,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf179f583d3a8e95c1",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3.9,
+      "availableCopies": 88,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcaf436e320bfa0cbb0b",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 4.3,
+      "availableCopies": 93,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafa04c12d92b793787",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 4.5,
+      "availableCopies": 82,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafab9fe0f5f6f2b305",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.9,
+      "availableCopies": 93,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf63d96e28268705b0",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1.5,
+      "availableCopies": 97,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafcc13210c4cfe3701",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 4.3,
+      "availableCopies": 89,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcafe56387019b28c5b4",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 1.7,
+      "availableCopies": 83,
+      "totalCopies": 115
+    },
+    {
+      "id": "5db6dcaf63e51b5b7f1f714d",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 1.2,
+      "availableCopies": 92,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcaf76343a032fc447bc",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 4.3,
+      "availableCopies": 80,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf65c13aab5dd90cc5",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.6,
+      "availableCopies": 82,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaf95f63eb519977e27",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.7,
+      "availableCopies": 96,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcaf70dd9a6c776c2835",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 5,
+      "availableCopies": 97,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcafe3213d5e765cfeff",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 1.4,
+      "availableCopies": 90,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcafc9ba6af4a84aa2a8",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 2.9,
+      "availableCopies": 80,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf425f798ba6da58ca",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 4.1,
+      "availableCopies": 94,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcaf74f1f2145cc27152",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.2,
+      "availableCopies": 88,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcafbf26528bfba8567f",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.6,
+      "availableCopies": 99,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafb9594344b94c28f4",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.4,
+      "availableCopies": 97,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcaf95fae5b2490ae44c",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.7,
+      "availableCopies": 80,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcafc16e102c15757ba5",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 4.7,
+      "availableCopies": 96,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf9f36776bb307a8ac",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.7,
+      "availableCopies": 92,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcaf51b6a80b84e5e942",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4.6,
+      "availableCopies": 89,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf6fc9a017af1b355a",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 1,
+      "availableCopies": 80,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf4e261784bc8bc716",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.3,
+      "availableCopies": 96,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf527a6e870d64a0ff",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.2,
+      "availableCopies": 83,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcafba70d2f78e52ab96",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 2.9,
+      "availableCopies": 99,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcaf21a7835d3454e665",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 1.1,
+      "availableCopies": 82,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf54054b44ce6df24e",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 5,
+      "availableCopies": 89,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcafcf5ac7911e06a0b2",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 2.8,
+      "availableCopies": 96,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf6cefd251a80fbadb",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3,
+      "availableCopies": 90,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf4dedf74c602ab24b",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 1,
+      "availableCopies": 92,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf10982d449a9d4da6",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 3.5,
+      "availableCopies": 82,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafb809776ac425dea9",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 2.7,
+      "availableCopies": 90,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafa1854b06bbf77e8d",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1.7,
+      "availableCopies": 90,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcaf0628e83a4afdc83f",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.7,
+      "availableCopies": 82,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcafecd8402080aa1bee",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 1.7,
+      "availableCopies": 98,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf3baebebae1da65c2",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 1.1,
+      "availableCopies": 100,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafb1fd0522a056a08a",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.8,
+      "availableCopies": 81,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf099dda4c6dee6ee8",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2,
+      "availableCopies": 83,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcafebb659c2f5c620eb",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 3.4,
+      "availableCopies": 100,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf1bcabfc991e26bf4",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4.1,
+      "availableCopies": 99,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf58ba5fe4d6533f2f",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1.6,
+      "availableCopies": 81,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf18afb5b28b51f6ad",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4,
+      "availableCopies": 83,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf2ccb9f6be4aefe54",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 3.8,
+      "availableCopies": 99,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf106746adb8911fd1",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 1.7,
+      "availableCopies": 93,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf458098fe02773f34",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 4.4,
+      "availableCopies": 97,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafa8b52c31d49a5225",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 4.2,
+      "availableCopies": 89,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf1ea9a98d4b9c267b",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.2,
+      "availableCopies": 84,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf7054ace8fe8cfe8d",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 91,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcafe037dabc7c92a149",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.4,
+      "availableCopies": 82,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaf9f36e531eddeb50d",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.8,
+      "availableCopies": 94,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafc5e777b278fe121a",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 3.9,
+      "availableCopies": 84,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcafdc8c4df0bcb30e35",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.8,
+      "availableCopies": 81,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf33e52454aac47ffe",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.7,
+      "availableCopies": 100,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcaff15d73e83a0dadcf",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.8,
+      "availableCopies": 86,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcafde04b16564e7a8bd",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3.8,
+      "availableCopies": 93,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcafe5831bf4cc030ba5",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.5,
+      "availableCopies": 85,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafe63370de1987226a",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.8,
+      "availableCopies": 95,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf8050bcaef418a197",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 2.2,
+      "availableCopies": 85,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcafd95e4ee9a79253ef",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 1.7,
+      "availableCopies": 94,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafff5985d699b0105d",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.2,
+      "availableCopies": 84,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcaf93fd36793b86da38",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3,
+      "availableCopies": 100,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf5ebc11b01854a06d",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.8,
+      "availableCopies": 96,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcaf46b8560cc1535fd3",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 1.8,
+      "availableCopies": 81,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf2a75cbe1bc00edf9",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2.4,
+      "availableCopies": 87,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcafb62c0a77b51e15e9",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 4.4,
+      "availableCopies": 94,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcafb0907ac9fd8e045a",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.4,
+      "availableCopies": 99,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcaf3c388aa85f5dfeee",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.2,
+      "availableCopies": 90,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafb5996ea41391c9be",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.4,
+      "availableCopies": 99,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcaf87931bf1ac593ce2",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 98,
+      "totalCopies": 128
+    },
+    {
+      "id": "5db6dcaf5a2142eb5f4f5261",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.6,
+      "availableCopies": 97,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcaf01dce860468feab3",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 4.1,
+      "availableCopies": 86,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf18fb0cfe2dbe2b8d",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3,
+      "availableCopies": 98,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcafa749656dd0b49a45",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.7,
+      "availableCopies": 91,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcafaa7a33e1f6ed773f",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.8,
+      "availableCopies": 82,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf37ccfbf886c848ef",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2.2,
+      "availableCopies": 98,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf98092e3b9e3bbe16",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.7,
+      "availableCopies": 84,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf7f0382e8a1a84284",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.5,
+      "availableCopies": 81,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcafc3febc5cbf29b0aa",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4,
+      "availableCopies": 99,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf974653bf5045db97",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.4,
+      "availableCopies": 100,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf7709d3886589eb4a",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 2.6,
+      "availableCopies": 97,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf903b0a23ead613b8",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 1.9,
+      "availableCopies": 90,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf4ddb054544ab9619",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.9,
+      "availableCopies": 83,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf7683728b80e16f37",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1,
+      "availableCopies": 97,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf4aac1a7a7e6d94a0",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 1.8,
+      "availableCopies": 100,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcafb9df725a2ab14393",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.8,
+      "availableCopies": 86,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcaf610e30da5102ff05",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 1.3,
+      "availableCopies": 86,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf80697b1dd357e924",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.5,
+      "availableCopies": 87,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf45f6566aaba321bf",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 95,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf23d1270073b3fb05",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 4.8,
+      "availableCopies": 95,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf7d1fdf4bf248f1ab",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 4,
+      "availableCopies": 92,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcaf419ac4ddda5bd23c",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 93,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaff75781a7f2515595",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 3.8,
+      "availableCopies": 85,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafd67a041738bbfcfe",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 2.6,
+      "availableCopies": 81,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcaf03175dfac0d38ee6",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 80,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcafe8d910feeda283a3",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.2,
+      "availableCopies": 85,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf64bda564bd8cad58",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 1.1,
+      "availableCopies": 85,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcafaf1048b55ff1936b",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 1.6,
+      "availableCopies": 93,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafbeae1e29ee66eaf7",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 4.3,
+      "availableCopies": 94,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcaff15258aaccf30168",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4,
+      "availableCopies": 95,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcafe8c063be70b7c7d1",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 2.1,
+      "availableCopies": 83,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcafe7ec77aaf9d1e67d",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.1,
+      "availableCopies": 94,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf2c2f19e63494414f",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.1,
+      "availableCopies": 94,
+      "totalCopies": 115
+    },
+    {
+      "id": "5db6dcaf47fe72fe7899ab2b",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.9,
+      "availableCopies": 82,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf9f455c3c62510005",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 3.2,
+      "availableCopies": 91,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafb44dcd1e6305c78a",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 4.6,
+      "availableCopies": 100,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf1d643fdd6019932a",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 100,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf89da9ff0b22b7893",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 4.3,
+      "availableCopies": 80,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf46a19113dd3b8c35",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.1,
+      "availableCopies": 89,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf69c24321532dcbf2",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.3,
+      "availableCopies": 84,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcafe65ceb644d562954",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3,
+      "availableCopies": 80,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf3c4a130273191472",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.8,
+      "availableCopies": 85,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf9d3a9cc06c779676",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3,
+      "availableCopies": 88,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaffe69a0adff751aeb",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.3,
+      "availableCopies": 82,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf7653ef09eb14a081",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3.8,
+      "availableCopies": 86,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcafeee308b669a86384",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.6,
+      "availableCopies": 87,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf9e027f112efab46d",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 85,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf4c8309d43efcc42f",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 1,
+      "availableCopies": 85,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaffb83d2605d0337ea",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.1,
+      "availableCopies": 82,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcafc3eb6e31e7b51daf",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.5,
+      "availableCopies": 99,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcafe519f95e89caaa45",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.5,
+      "availableCopies": 92,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcafb130142331a6013d",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.9,
+      "availableCopies": 81,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcaf7a2a03be8774f4ea",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4.9,
+      "availableCopies": 92,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf6d46b9e31ac2a440",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.2,
+      "availableCopies": 82,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcafb271b4c4a9390bd2",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.4,
+      "availableCopies": 99,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf507189137e2efaa6",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.4,
+      "availableCopies": 84,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf4f4c444873ae791c",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 84,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcaf3a0655269cc06fbf",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 2,
+      "availableCopies": 93,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcafde6a44c222fa3f32",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.8,
+      "availableCopies": 86,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcafe2831ed6fa2c7d8e",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 5,
+      "availableCopies": 82,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf2b3516eea4e592d3",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.7,
+      "availableCopies": 87,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf654866b937a08d0b",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.1,
+      "availableCopies": 97,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcafa5687eec5d644fd6",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.6,
+      "availableCopies": 94,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf849e3e09e201236c",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.6,
+      "availableCopies": 95,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaf7550bf66a37288d9",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 2.4,
+      "availableCopies": 93,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcafbba7774deaf13f4f",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.3,
+      "availableCopies": 84,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcafc00d704cc01249f4",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 2.1,
+      "availableCopies": 82,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf26705cc25815284b",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 3.2,
+      "availableCopies": 91,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcaf8eac5334329fcdb6",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1,
+      "availableCopies": 95,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf6b309701bea5dee0",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 1.4,
+      "availableCopies": 86,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafba2340014ae2f2f7",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.7,
+      "availableCopies": 86,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcafb6136448070f6846",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 2.7,
+      "availableCopies": 97,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaf2ffef51aad9b1884",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.1,
+      "availableCopies": 88,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf12c2fc7bec64c237",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.3,
+      "availableCopies": 83,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcaf55a3a630c0227f92",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.5,
+      "availableCopies": 85,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf897827e0f2ac3231",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3.5,
+      "availableCopies": 81,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaf4b91a44e4b813fa3",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 2.8,
+      "availableCopies": 92,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcafde233e1af568ad42",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 4,
+      "availableCopies": 84,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcafd92db6c657f9a65b",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.2,
+      "availableCopies": 85,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcaf36878ce69ecfae61",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 1.8,
+      "availableCopies": 97,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcaf805121656e2789a9",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.6,
+      "availableCopies": 96,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaffddecd1f0679859b",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.3,
+      "availableCopies": 86,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaf9092781efc9f6c17",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 3.2,
+      "availableCopies": 87,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf40ddbf63914c1d93",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 2,
+      "availableCopies": 94,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcafdcdf247717c2a861",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 1.2,
+      "availableCopies": 84,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafa819da36a78cdd63",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.6,
+      "availableCopies": 85,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf922bec1d9e59bf4f",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.4,
+      "availableCopies": 94,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf2acccb07b8a740a1",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 3.9,
+      "availableCopies": 97,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf12ea05eb1c5c9dfb",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 96,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaf7e2b311fff18acd0",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.9,
+      "availableCopies": 88,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcaf91dc074e4a50c2e1",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 1.6,
+      "availableCopies": 83,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcaf57d608e4bb684378",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 4.7,
+      "availableCopies": 91,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcafcfa15d554e515e60",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.5,
+      "availableCopies": 87,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf15e160a834afe06f",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.2,
+      "availableCopies": 81,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcafea64b32ae70822b2",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.4,
+      "availableCopies": 95,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf1f4a345fc16a166f",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.3,
+      "availableCopies": 80,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf294590a9412bee0a",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.2,
+      "availableCopies": 81,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcaf536da9e381c6ad40",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 4.1,
+      "availableCopies": 94,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf8d7c37bbc34dbeae",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 1.5,
+      "availableCopies": 86,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf8bee8023ab7731c9",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.2,
+      "availableCopies": 95,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf8bda9420b20ae803",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 4.8,
+      "availableCopies": 89,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaff127bf8a9fcb6046",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.3,
+      "availableCopies": 91,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcaf96a95fa36dfc4347",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 4.6,
+      "availableCopies": 98,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafa84a6a2c33b96dbe",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 1.9,
+      "availableCopies": 91,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf8d7326a580e00bae",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 3.7,
+      "availableCopies": 86,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafa8a498b48c3a1257",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 1,
+      "availableCopies": 100,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafa232fabb7997333a",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 1.3,
+      "availableCopies": 80,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcafda7591194244978f",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 1,
+      "availableCopies": 85,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf2795b6e2e35b2a5a",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 1,
+      "availableCopies": 99,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf0531637ac01cc0ae",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.6,
+      "availableCopies": 90,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaffdbaefcf8f7ad6c1",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 1.2,
+      "availableCopies": 82,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf29118fbd2853ba8f",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 98,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf668d69195b6d0ee7",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 4.4,
+      "availableCopies": 89,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf6a6df70b188b703d",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.4,
+      "availableCopies": 82,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf61f2fbd3bd15abc9",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1,
+      "availableCopies": 88,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf88c9c4a2ecba5771",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4.1,
+      "availableCopies": 87,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf29d26194a5700772",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.1,
+      "availableCopies": 91,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcafc0767fb7bb37810d",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.5,
+      "availableCopies": 88,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf17345c5928c1bc80",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.1,
+      "availableCopies": 80,
+      "totalCopies": 128
+    },
+    {
+      "id": "5db6dcafaa9282d0edf2f2a3",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 4,
+      "availableCopies": 100,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcaf2efda90592c1d691",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3.1,
+      "availableCopies": 91,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf8b4c352cecae794f",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 1,
+      "availableCopies": 81,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaf25138a2e5c49f765",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 2,
+      "availableCopies": 93,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf7fe63d95b8c9bec8",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.8,
+      "availableCopies": 93,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcafbd5dd1fea3bc208a",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 1.5,
+      "availableCopies": 83,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf73ce305daddb762f",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3.8,
+      "availableCopies": 99,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf35d176ee79cad6ab",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.3,
+      "availableCopies": 86,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafbff010ba2e954d35",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4,
+      "availableCopies": 89,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf11de7a601843f4a1",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.9,
+      "availableCopies": 95,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf14b51794355bad42",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.7,
+      "availableCopies": 86,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf3a03cda1fafc7f36",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.9,
+      "availableCopies": 87,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf59ffed9a215f69c0",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 4.3,
+      "availableCopies": 87,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafbf43785cc6d0263f",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.6,
+      "availableCopies": 85,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcaf9afd0f1a72f9b0e5",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 1.4,
+      "availableCopies": 83,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf51b766c615b80eb6",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 87,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcaf1d6f24e95c1c0a70",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.1,
+      "availableCopies": 92,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcaf49c33dac3b8efe6a",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.5,
+      "availableCopies": 87,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcaf9d8476f391acdf1a",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.2,
+      "availableCopies": 92,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf575d0ab29a3079e5",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.6,
+      "availableCopies": 86,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf41ffa6cc87cc9367",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 2.9,
+      "availableCopies": 89,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf83cdcb947acf81c0",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.6,
+      "availableCopies": 88,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf1bff7d88b22e173c",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 97,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcafb4ae3bcae119c4ec",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2,
+      "availableCopies": 100,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf246850127501b0d1",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 2.5,
+      "availableCopies": 99,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaff2dcbed8f3c66368",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 4.1,
+      "availableCopies": 87,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcaffd314f5981aa913c",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3.2,
+      "availableCopies": 88,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf79b6233f87571f60",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.1,
+      "availableCopies": 84,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf480d6e81da5fbb17",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 4.7,
+      "availableCopies": 86,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf57749c18e841ba73",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3,
+      "availableCopies": 96,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf32b82a0cd032e936",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.2,
+      "availableCopies": 80,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcafa8eac7a7f8a7cf87",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.5,
+      "availableCopies": 96,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf3fe1a28198286861",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.5,
+      "availableCopies": 98,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcaf12cbff830430d5f3",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.1,
+      "availableCopies": 89,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafaf809904e18afcee",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 2,
+      "availableCopies": 80,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcafadd11debdb3cf432",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 3,
+      "availableCopies": 83,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcafa4904b25d2d45674",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3,
+      "availableCopies": 93,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaff758471fb25fccd0",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 5,
+      "availableCopies": 86,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcafb92a63a26703edf3",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 5,
+      "availableCopies": 83,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf11030d15aa57c3c2",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 1.5,
+      "availableCopies": 88,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafb37eaa01acf0293a",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 1.6,
+      "availableCopies": 88,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf983a79695582cc43",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4,
+      "availableCopies": 89,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcafa8a5467df84c52a2",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.7,
+      "availableCopies": 95,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf21c675bac78c23cc",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.8,
+      "availableCopies": 87,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf1b0a0bd4a9b6362f",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.9,
+      "availableCopies": 88,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaf03a5ebf0370f205d",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.5,
+      "availableCopies": 94,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcaf948bdda91fbaff87",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.9,
+      "availableCopies": 82,
+      "totalCopies": 128
+    },
+    {
+      "id": "5db6dcaf5259d4a24a5200b0",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 2,
+      "availableCopies": 92,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf3cac817823193da3",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 4.3,
+      "availableCopies": 83,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcaf81c49409c00c8082",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4.4,
+      "availableCopies": 98,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcafee568822ea54663b",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 3.1,
+      "availableCopies": 85,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcaf25b7a2ca93926cd0",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3.8,
+      "availableCopies": 80,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcaf5e81210f9180ef41",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2.6,
+      "availableCopies": 95,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcafdb38f23421c1db55",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 1.8,
+      "availableCopies": 81,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcafb7791c9bd005affd",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3.9,
+      "availableCopies": 88,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcafbc754554a1057f52",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 4.6,
+      "availableCopies": 94,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcafe0adc5a3ff0efeea",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.6,
+      "availableCopies": 85,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcafdbaafed06c78c6f7",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 1,
+      "availableCopies": 99,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcafc5059721367add32",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 97,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf73550fe604fb1cb1",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 4.7,
+      "availableCopies": 94,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf5c37bbdf03c645f8",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.4,
+      "availableCopies": 84,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaffbdaf9c03905b30d",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2.8,
+      "availableCopies": 82,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafaa6b4b255fb3569d",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.9,
+      "availableCopies": 82,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcaff94c714695ae384b",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2,
+      "availableCopies": 82,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcafe05b1f9db0311fa3",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 2.1,
+      "availableCopies": 86,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcaff6e8e28e57622087",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.7,
+      "availableCopies": 97,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcaf6788f416f4e77f41",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.4,
+      "availableCopies": 81,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf5d46beff3d3218a8",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.4,
+      "availableCopies": 80,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf7fc117d55bc24324",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 4.8,
+      "availableCopies": 98,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcafcf30c2ca01f0db37",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 1.3,
+      "availableCopies": 92,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf53d140197eae4f0a",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 2.6,
+      "availableCopies": 85,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcafcbaec44e436c39e5",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.2,
+      "availableCopies": 92,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcafdba4ec4c38fa9bd6",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.2,
+      "availableCopies": 86,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcafb6fe701850be9d1f",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1,
+      "availableCopies": 99,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcafdc21f2bfed237099",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 3.9,
+      "availableCopies": 80,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcafa47cf4b39dcad617",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.2,
+      "availableCopies": 84,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf8001ae133367f016",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.1,
+      "availableCopies": 99,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcafe6315fec5c40b969",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 83,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcafcc16be0339e7cd5a",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 4.3,
+      "availableCopies": 99,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafd3894c10e6037198",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.2,
+      "availableCopies": 88,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf62c93ea5876e3603",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.6,
+      "availableCopies": 91,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcafbb9daf1006f22c61",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 4,
+      "availableCopies": 98,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcafb55d0c1864330c46",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.2,
+      "availableCopies": 94,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf33e41e3540c0dfe5",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 2.8,
+      "availableCopies": 85,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaf36a9fe6e9d8894ed",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.3,
+      "availableCopies": 80,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf4299c83adcd7fc72",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.2,
+      "availableCopies": 84,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcaff8111a6aa72dacea",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 81,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcafaf4cf9effc748e06",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 5,
+      "availableCopies": 82,
+      "totalCopies": 115
+    },
+    {
+      "id": "5db6dcaf5f00cb337c528194",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.8,
+      "availableCopies": 90,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf5b240613eea8493f",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 3,
+      "availableCopies": 80,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcafc7e7bc506a161c6e",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 1.8,
+      "availableCopies": 97,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcaf20c6e329454baca1",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.6,
+      "availableCopies": 87,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcafde7cc1a2e917b133",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 3.5,
+      "availableCopies": 98,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf2204f42ac01dcf7e",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.7,
+      "availableCopies": 94,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf59e34879ba02c0a6",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.3,
+      "availableCopies": 81,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf9e60f39a2be25954",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.7,
+      "availableCopies": 94,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf525378509c44b01d",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2.1,
+      "availableCopies": 97,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf92ff9ebf04612f95",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.2,
+      "availableCopies": 100,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcafd7d5d494faff24d3",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2.9,
+      "availableCopies": 81,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaff300c81335ca22e8",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.2,
+      "availableCopies": 96,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcafea93b5dbedde9445",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1,
+      "availableCopies": 83,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcaf950434cab1a57536",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 2.4,
+      "availableCopies": 95,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcaf8360a84411b737fb",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3,
+      "availableCopies": 84,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcafdac1f1e4245ec89e",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4.5,
+      "availableCopies": 94,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcaf301cac8594cedcd8",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.8,
+      "availableCopies": 85,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf95d6e17c877c9df4",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 3.8,
+      "availableCopies": 98,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcaf5bb639fcd0664b49",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.7,
+      "availableCopies": 97,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcafd6850079dd0aa424",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 1.8,
+      "availableCopies": 89,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcaf8b204883fb91968b",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.4,
+      "availableCopies": 87,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcafa8f3edfd6d79b9e6",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 2.8,
+      "availableCopies": 86,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcaf0f1a63706d497720",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 4.7,
+      "availableCopies": 92,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf60654cce6174e8ff",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.5,
+      "availableCopies": 99,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf8b4074406d605c20",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 1.1,
+      "availableCopies": 85,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcafb1a4f137ebdedc55",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.5,
+      "availableCopies": 85,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf60e4e637da6fc2f2",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.4,
+      "availableCopies": 95,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcaf7d5e28f58a719033",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.2,
+      "availableCopies": 89,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaff541ffed6f5fa04f",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.6,
+      "availableCopies": 94,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcafbce78227d6692763",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 1.8,
+      "availableCopies": 83,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf047654950267fb6e",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.4,
+      "availableCopies": 100,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcaf9370258735eadb75",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.9,
+      "availableCopies": 98,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf86d77fc3fb68c6cc",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.9,
+      "availableCopies": 96,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf7712f1f6ab2ea390",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 2.7,
+      "availableCopies": 82,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcaf4c692007afd4c839",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3,
+      "availableCopies": 89,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcaf27c84e5b1a4d7295",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 2.3,
+      "availableCopies": 83,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf33f6905914fff589",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 4.6,
+      "availableCopies": 84,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcaf84c68e6c75272e42",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3.3,
+      "availableCopies": 96,
+      "totalCopies": 133
+    },
+    {
+      "id": "5db6dcafc0344871eabd0046",
+      "title": "Thor",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4,
+      "availableCopies": 96,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf497fb2739baa7492",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3,
+      "availableCopies": 95,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcaf32f18e5194a25cb1",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.7,
+      "availableCopies": 80,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcafcadf900877bd468c",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2.5,
+      "availableCopies": 100,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcafb116911d83ad8b69",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.6,
+      "availableCopies": 93,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcaf03d9b23a1ace3eda",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4.8,
+      "availableCopies": 81,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf18c0ce205c6cf9c4",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 2.3,
+      "availableCopies": 91,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf294b02ad12cd533b",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 3.2,
+      "availableCopies": 88,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcafd6464e250cc7e469",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.7,
+      "availableCopies": 86,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf7ebeff55131ddc7c",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3,
+      "availableCopies": 96,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf438d6c4d726ebbd5",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 4.1,
+      "availableCopies": 91,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf992901a1effb3756",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 85,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf62d491243d6553e8",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.1,
+      "availableCopies": 100,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcafb85847c9f6878817",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.4,
+      "availableCopies": 99,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcaf9e6643239f02c1e6",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.8,
+      "availableCopies": 87,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcaf7cdfd392eb1e2419",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Bruce",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.8,
+      "availableCopies": 84,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf56a02c25e47ecee3",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 2.4,
+      "availableCopies": 85,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafc38e8edc58a5b775",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4,
+      "availableCopies": 93,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcaf693099a6ffc99765",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 2.5,
+      "availableCopies": 89,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcaf0f5df5cb39acd92c",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 2.8,
+      "availableCopies": 95,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcafc78bf460deca7787",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 4.1,
+      "availableCopies": 81,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf02bf43c99b1274e0",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 81,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcafae09486d3cc3a994",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2,
+      "availableCopies": 83,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcafcb3f7ca06cebe311",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.5,
+      "availableCopies": 86,
+      "totalCopies": 132
+    },
+    {
+      "id": "5db6dcaf223e92bd8a197beb",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 2.2,
+      "availableCopies": 80,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcaf5764c80c9e814752",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 2.5,
+      "availableCopies": 81,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcafd7e27120ee60c962",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.6,
+      "availableCopies": 100,
+      "totalCopies": 118
+    },
+    {
+      "id": "5db6dcaf89aa3a3a82fbcb0e",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.2,
+      "availableCopies": 92,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcaf4cbe47045cb46a2f",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 3.1,
+      "availableCopies": 84,
+      "totalCopies": 116
+    },
+    {
+      "id": "5db6dcafbba259288efcbde6",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.9,
+      "availableCopies": 96,
+      "totalCopies": 134
+    },
+    {
+      "id": "5db6dcafc45cf458cbc82f1f",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 84,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaff40371a4188cde13",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 1.3,
+      "availableCopies": 85,
+      "totalCopies": 147
+    },
+    {
+      "id": "5db6dcafc8b9ccf645a2a212",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.9,
+      "availableCopies": 90,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaff5d2fe77fbe0e4ef",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3,
+      "availableCopies": 99,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcafa42f69df4ad20624",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3.4,
+      "availableCopies": 95,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf452a479fd49c3668",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.1,
+      "availableCopies": 100,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf12e235e15d5c4278",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.3,
+      "availableCopies": 86,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf1058872c7d47c928",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 3,
+      "availableCopies": 92,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcafdc7041ba417e1696",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3.2,
+      "availableCopies": 87,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf85f004f7d05113b6",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.1,
+      "availableCopies": 88,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaff6badabde5c4abe0",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 3.1,
+      "availableCopies": 86,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcafdd2fffc0d48c41dd",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1994,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.6,
+      "availableCopies": 94,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf7212856022be2930",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 2.7,
+      "availableCopies": 93,
+      "totalCopies": 123
+    },
+    {
+      "id": "5db6dcaf960138b4942b4626",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 4.5,
+      "availableCopies": 94,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf4bfb7beb10be4fa3",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 2.3,
+      "availableCopies": 99,
+      "totalCopies": 109
+    },
+    {
+      "id": "5db6dcaf2853d2206cb53c47",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 2,
+      "availableCopies": 87,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf65bd8e0df9fe3ce5",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.5,
+      "availableCopies": 93,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcafd6d2f2d17bc09f57",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.5,
+      "availableCopies": 93,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf43f65be5a01001d4",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 1.3,
+      "availableCopies": 84,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcaf46fa185f5f636f99",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 4.5,
+      "availableCopies": 98,
+      "totalCopies": 138
+    },
+    {
+      "id": "5db6dcafa1c0e416072f6132",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 4.9,
+      "availableCopies": 90,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcafa7222d2d71004e81",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 4,
+      "availableCopies": 87,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcafe1e1ed354ac5219c",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 4.5,
+      "availableCopies": 93,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf6c2f122cbd6f80bc",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 2.3,
+      "availableCopies": 82,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf7a2b95781fc7c8f5",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 4.5,
+      "availableCopies": 97,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcaf0c35224a8d939837",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 3.6,
+      "availableCopies": 96,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafca319e1df04f64dd",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.5,
+      "availableCopies": 85,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcafebe0083c7b0d9595",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.1,
+      "availableCopies": 96,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaf8fe9fdcf0202255a",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.8,
+      "availableCopies": 82,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcafa55b2fb8f155810e",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 1.5,
+      "availableCopies": 89,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcafa3c61aefd72025ff",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2.1,
+      "availableCopies": 89,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcafb5947e82e2cf4f4c",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.5,
+      "availableCopies": 95,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaf37f9290939d81c88",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.9,
+      "availableCopies": 88,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf309f3067cb00f3c2",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2.7,
+      "availableCopies": 82,
+      "totalCopies": 101
+    },
+    {
+      "id": "5db6dcaf1cc9a82f2b9b243e",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1.2,
+      "availableCopies": 96,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaf49f2f0bc6df70222",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4,
+      "availableCopies": 81,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcaf74cfb8fd56667807",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.9,
+      "availableCopies": 86,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf51cc48efee28482f",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 1.8,
+      "availableCopies": 100,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcafac87e278c3a2dbe5",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.7,
+      "availableCopies": 88,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaff2801f09371cc3aa",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.6,
+      "availableCopies": 91,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcaf518dd3b05a2d87eb",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Chris",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.3,
+      "availableCopies": 88,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf0b460f8be904730f",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 2.8,
+      "availableCopies": 85,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcafd62f358e7c55bcbc",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Chris",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.3,
+      "availableCopies": 93,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcaf429925f7e0821cd9",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.3,
+      "availableCopies": 98,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf471c83b3cf8d7171",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 3.5,
+      "availableCopies": 92,
+      "totalCopies": 128
+    },
+    {
+      "id": "5db6dcaf8f2c4542b7538cce",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 2,
+      "availableCopies": 93,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaf7844a975eccf9d49",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 2.7,
+      "availableCopies": 87,
+      "totalCopies": 124
+    },
+    {
+      "id": "5db6dcaf528be309f83df811",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 1.3,
+      "availableCopies": 98,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcaf9e1ad30825eeefb7",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1,
+      "availableCopies": 86,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcaf1389a2006c42f227",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 3.2,
+      "availableCopies": 82,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaff11b98cf863c0263",
+      "title": "Spiderman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 1.2,
+      "availableCopies": 98,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcafd03134f157710840",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2013,
+      "artist": [
+        "Bruce",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.7,
+      "availableCopies": 95,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf555b22f7552ee9b1",
+      "title": "Ant-Man",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 1993,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 80,
+      "totalCopies": 126
+    },
+    {
+      "id": "5db6dcaf597ee320b9e2cb7f",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 1.5,
+      "availableCopies": 90,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcafd1662eceb8179664",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.1,
+      "availableCopies": 96,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf0fe4cdec85bc05b5",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2005,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "Quentin",
+      "rating": 3.9,
+      "availableCopies": 89,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcaf468322f0683b157f",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 3.9,
+      "availableCopies": 80,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcaf68cda8670974f00e",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.1,
+      "availableCopies": 99,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcafa03448fa21882629",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 3,
+      "availableCopies": 85,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaf6c8258329bbf3f27",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.8,
+      "availableCopies": 97,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcaf805b2f462c157ed5",
+      "title": "Batman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.9,
+      "availableCopies": 96,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcafa822f1fd120807ec",
+      "title": "Batman",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.5,
+      "availableCopies": 96,
+      "totalCopies": 115
+    },
+    {
+      "id": "5db6dcaf17b57d4509205f55",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.8,
+      "availableCopies": 93,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf25674913f1b9e1e1",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 3.9,
+      "availableCopies": 89,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcafcc4fc42646f0a7ba",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2001,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 3.4,
+      "availableCopies": 93,
+      "totalCopies": 110
+    },
+    {
+      "id": "5db6dcafb4575959b985a61c",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 97,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaf4c293b5263d756c6",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 1.8,
+      "availableCopies": 91,
+      "totalCopies": 140
+    },
+    {
+      "id": "5db6dcaf72a24d9b0550d1b3",
+      "title": "WonderWoman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 1.8,
+      "availableCopies": 94,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcaf20da3ac87f2c0473",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 85,
+      "totalCopies": 106
+    },
+    {
+      "id": "5db6dcafe028f659f5b458d1",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4,
+      "availableCopies": 81,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf374e4a0f34c85318",
+      "title": "Captain America",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.3,
+      "availableCopies": 85,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcafa3601b73565e6c9a",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 5,
+      "availableCopies": 97,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf0d4aa80fe55fc55a",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Quentin",
+      "rating": 1.8,
+      "availableCopies": 80,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf9b5eb453a3aff5b0",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Joaquin",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 1.8,
+      "availableCopies": 81,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf7fc36a2437f1475b",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Chris",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 84,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcaf782961a38e022e68",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 2.1,
+      "availableCopies": 92,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcaf2256338961421fb1",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 1.5,
+      "availableCopies": 83,
+      "totalCopies": 127
+    },
+    {
+      "id": "5db6dcaf77b546951a1f3416",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 4.9,
+      "availableCopies": 80,
+      "totalCopies": 144
+    },
+    {
+      "id": "5db6dcaf15b3478f144440c6",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 3.6,
+      "availableCopies": 82,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf5c763216d9bd34f1",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Bruce",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 1.3,
+      "availableCopies": 91,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf29a5564c91b522bb",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.4,
+      "availableCopies": 85,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcaf3be836b1d982c033",
+      "title": "Thor",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": "Alfred",
+      "rating": 3.7,
+      "availableCopies": 84,
+      "totalCopies": 148
+    },
+    {
+      "id": "5db6dcafeb9a0eaccddd9ea4",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2014,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.3,
+      "availableCopies": 100,
+      "totalCopies": 145
+    },
+    {
+      "id": "5db6dcafc60dcb6a38bac0ac",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Toby",
+        "Emily"
+      ],
+      "director": "Quentin",
+      "rating": 4.2,
+      "availableCopies": 87,
+      "totalCopies": 114
+    },
+    {
+      "id": "5db6dcafb581ae3aeaaae283",
+      "title": "Ironman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Joaquin",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 4.8,
+      "availableCopies": 89,
+      "totalCopies": 105
+    },
+    {
+      "id": "5db6dcaf5f0d00e1305644ed",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Chris",
+        "Jaden"
+      ],
+      "director": "James",
+      "rating": 4.9,
+      "availableCopies": 97,
+      "totalCopies": 129
+    },
+    {
+      "id": "5db6dcaf6941023ffc647e86",
+      "title": "Ironman",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.7,
+      "availableCopies": 99,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcafd6b0719744da0e61",
+      "title": "Falcon",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 4.9,
+      "availableCopies": 95,
+      "totalCopies": 108
+    },
+    {
+      "id": "5db6dcaf6a9a8ff59110d52d",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1991,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Martin",
+      "rating": 3.5,
+      "availableCopies": 87,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcafaf1ed3ab6fb24882",
+      "title": "Ant-Man",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": " Francis",
+      "rating": 2.1,
+      "availableCopies": 81,
+      "totalCopies": 139
+    },
+    {
+      "id": "5db6dcaf51cdcb62cc373093",
+      "title": "Batman",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3,
+      "availableCopies": 94,
+      "totalCopies": 113
+    },
+    {
+      "id": "5db6dcafa9b31cead071ee57",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 1.8,
+      "availableCopies": 91,
+      "totalCopies": 103
+    },
+    {
+      "id": "5db6dcaf8b7f80d9d393b183",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Fiction"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2,
+      "availableCopies": 96,
+      "totalCopies": 112
+    },
+    {
+      "id": "5db6dcaf77a0c869c7dc1af3",
+      "title": "Black Panther",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 1995,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 2.3,
+      "availableCopies": 82,
+      "totalCopies": 130
+    },
+    {
+      "id": "5db6dcaf4cb090e5176121ff",
+      "title": "WonderWoman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 80,
+      "totalCopies": 119
+    },
+    {
+      "id": "5db6dcafda1fcd523becde5f",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2008,
+      "artist": [
+        "Toby",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 1.8,
+      "availableCopies": 89,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcaf9e77e26413fc6838",
+      "title": "Captain America",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Robert",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.7,
+      "availableCopies": 80,
+      "totalCopies": 141
+    },
+    {
+      "id": "5db6dcaff85d1b9d7f50864e",
+      "title": "Spiderman",
+      "genre": [
+        "Action",
+        "Fiction"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 2,
+      "availableCopies": 88,
+      "totalCopies": 137
+    },
+    {
+      "id": "5db6dcafe7f8987a23241620",
+      "title": "Superman",
+      "genre": [
+        "Action",
+        "Suspense"
+      ],
+      "releaseYear": 1990,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 1.1,
+      "availableCopies": 80,
+      "totalCopies": 121
+    },
+    {
+      "id": "5db6dcaf8e35e2adef811c9c",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2010,
+      "artist": [
+        "Rudd",
+        "Emily"
+      ],
+      "director": "Martin",
+      "rating": 2.7,
+      "availableCopies": 93,
+      "totalCopies": 136
+    },
+    {
+      "id": "5db6dcaf93d229325bebbc9b",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Rudd",
+        "Christen"
+      ],
+      "director": "Alfred",
+      "rating": 3.4,
+      "availableCopies": 93,
+      "totalCopies": 104
+    },
+    {
+      "id": "5db6dcaf13204bb39ba41097",
+      "title": "Joker",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.1,
+      "availableCopies": 98,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf79cf523e2e5a7c91",
+      "title": "Superman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2000,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": "James",
+      "rating": 2.8,
+      "availableCopies": 98,
+      "totalCopies": 131
+    },
+    {
+      "id": "5db6dcaf1aa040e67a25d8a5",
+      "title": "Falcon",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 1992,
+      "artist": [
+        "Robert",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 1.1,
+      "availableCopies": 100,
+      "totalCopies": 143
+    },
+    {
+      "id": "5db6dcaf00f953354458f46e",
+      "title": "Ant-Man",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2016,
+      "artist": [
+        "Tom",
+        "Jaden"
+      ],
+      "director": "Martin",
+      "rating": 4.6,
+      "availableCopies": 85,
+      "totalCopies": 102
+    },
+    {
+      "id": "5db6dcafe271f689e760d8ed",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 1998,
+      "artist": [
+        "Joaquin",
+        "Gal"
+      ],
+      "director": "Martin",
+      "rating": 3.5,
+      "availableCopies": 88,
+      "totalCopies": 149
+    },
+    {
+      "id": "5db6dcaf5b0c09b994f77ae2",
+      "title": "Captain America",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "releaseYear": 2007,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "James",
+      "rating": 2.5,
+      "availableCopies": 82,
+      "totalCopies": 120
+    },
+    {
+      "id": "5db6dcaf97460844c42f7cfa",
+      "title": "Thor",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2011,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Quentin",
+      "rating": 3.9,
+      "availableCopies": 84,
+      "totalCopies": 111
+    },
+    {
+      "id": "5db6dcaf1696b1c118f4f742",
+      "title": "Black Panther",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "releaseYear": 2003,
+      "artist": [
+        "Tom",
+        "Gal"
+      ],
+      "director": "Alfred",
+      "rating": 3.3,
+      "availableCopies": 94,
+      "totalCopies": 150
+    },
+    {
+      "id": "5db6dcaf5528f56cf91fc8c2",
+      "title": "Joker",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2006,
+      "artist": [
+        "Robert",
+        "Emily"
+      ],
+      "director": " Francis",
+      "rating": 2.3,
+      "availableCopies": 95,
+      "totalCopies": 117
+    },
+    {
+      "id": "5db6dcafba8565edae06a42c",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Fiction"
+      ],
+      "releaseYear": 2004,
+      "artist": [
+        "Bruce",
+        "Gal"
+      ],
+      "director": "Chris Nolan",
+      "rating": 2.3,
+      "availableCopies": 89,
+      "totalCopies": 125
+    },
+    {
+      "id": "5db6dcaf233ca9c6812b8c1f",
+      "title": "Superman",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "releaseYear": 2009,
+      "artist": [
+        "Joaquin",
+        "Emily"
+      ],
+      "director": "Chris Nolan",
+      "rating": 3.9,
+      "availableCopies": 95,
+      "totalCopies": 146
+    },
+    {
+      "id": "5db6dcafa3d248acedd584d4",
+      "title": "WonderWoman",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1997,
+      "artist": [
+        "Toby",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 4.2,
+      "availableCopies": 99,
+      "totalCopies": 128
+    },
+    {
+      "id": "5db6dcaf5803c3ccb1aefdec",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2002,
+      "artist": [
+        "Rudd",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 4.5,
+      "availableCopies": 82,
+      "totalCopies": 122
+    },
+    {
+      "id": "5db6dcaffc1971ce8714f912",
+      "title": "Spiderman",
+      "genre": [
+        "Drama",
+        "Sci-fi"
+      ],
+      "releaseYear": 2015,
+      "artist": [
+        "Toby",
+        "Gal"
+      ],
+      "director": " Francis",
+      "rating": 3.7,
+      "availableCopies": 100,
+      "totalCopies": 135
+    },
+    {
+      "id": "5db6dcafac4ddd7e2951995f",
+      "title": "Falcon",
+      "genre": [
+        "Horror",
+        "Suspense"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Robert",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 2.2,
+      "availableCopies": 85,
+      "totalCopies": 107
+    },
+    {
+      "id": "5db6dcaf5d887d6ec25d60e0",
+      "title": "Ironman",
+      "genre": [
+        "Drama",
+        "Suspense"
+      ],
+      "releaseYear": 2012,
+      "artist": [
+        "Rudd",
+        "Jaden"
+      ],
+      "director": " Francis",
+      "rating": 1.5,
+      "availableCopies": 83,
+      "totalCopies": 142
+    },
+    {
+      "id": "5db6dcafcc7f69191e06e007",
+      "title": "Black Panther",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1999,
+      "artist": [
+        "Tom",
+        "Emily"
+      ],
+      "director": "Alfred",
+      "rating": 2.4,
+      "availableCopies": 88,
+      "totalCopies": 115
+    },
+    {
+      "id": "5db6dcafd4ea8c9332200d6c",
+      "title": "Joker",
+      "genre": [
+        "Horror",
+        "Sci-fi"
+      ],
+      "releaseYear": 1996,
+      "artist": [
+        "Tom",
+        "Christen"
+      ],
+      "director": "James",
+      "rating": 2.5,
+      "availableCopies": 94,
+      "totalCopies": 119
+    }
+]
+

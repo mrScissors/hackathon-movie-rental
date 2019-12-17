@@ -1,0 +1,30 @@
+[
+    {
+      "id": "5db6d3918d584cd23004ee02",
+      "userName": "Pluto",
+      "name": "Mike",
+      "email": "wonggomez@centice.com",
+      "dob": 2014
+    },
+    {
+      "id": "5db6d3916eece130e3a3fde9",
+      "userName": "Pluto",
+      "name": "Mike",
+      "email": "wonggomez@centice.com",
+      "dob": 1990
+    },
+    {
+      "id": "5db6d39193c8e5eacdbc7ba4",
+      "userName": "Pluto",
+      "name": "Mike",
+      "email": "wonggomez@centice.com",
+      "dob": 2014
+    },
+    {
+      "id": "5db6d391cae40d9c29c513d6",
+      "userName": "Pluto",
+      "name": "Mike",
+      "email": "wonggomez@centice.com",
+      "dob": 1990
+    }
+  ]

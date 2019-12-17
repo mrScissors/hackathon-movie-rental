@@ -1,0 +1,18 @@
+button{
+  margin-left: 0.5rem;
+  padding: 0 0.5rem 0 0.5rem;
+}
+
+.mat-headline {
+  margin: 1vh 0 2vh 0;
+}
+.mat-body-2 {
+  margin: 1vh 0 2vh 0.2rem;
+}
+.mat-body-1 {
+  margin: 1vh 0 2vh 0.3rem;
+}
+
+.mat-title {
+  margin: 0.5vh 0 0.5vh 0.1rem;
+}
